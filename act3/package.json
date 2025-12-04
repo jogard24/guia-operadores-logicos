@@ -2,16 +2,17 @@
   "dependencies": {
     "prompt-sync": "^4.2.0"
   },
-  "name": "act1",
+  "name": "act3",
   "version": "1.0.0",
-  "main": "app.js",
-  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "types": "modules",
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "devDependencies": {}
+  "type": "commonjs"
 }
